@@ -17,7 +17,7 @@ Run main.py with the following setting:
 --loss_type: 1
 --pos_embed: True
 
-Test well with python3.6, Pytorch
+Test well with python3.6, Pytorch. Run with one GPU.
 
 If you are using this code, please cite this paper:
 
