@@ -19,3 +19,5 @@ Run main.py with the following setting:
 Test well with python3.6
 
 If you are using this code, please cite this paper:
+
+Wang, Hongsong, and Jiashi Feng. "PVRED: A position-velocity recurrent encoder-decoder for human motion prediction." arXiv preprint arXiv:1906.06514 (2019).
