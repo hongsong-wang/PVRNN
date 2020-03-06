@@ -1,5 +1,6 @@
 # PVRNN
-PVRNN for human motion prediction
+PVRNN for human motion prediction for this paper:
+https://arxiv.org/abs/1906.06514
 
 download data from
 https://github.com/una-dinosauria/human-motion-prediction
