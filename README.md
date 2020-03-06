@@ -6,6 +6,7 @@ https://github.com/una-dinosauria/human-motion-prediction
 
 The two open source
 https://github.com/facebookresearch/QuaterNet
+
 https://github.com/chaneyddtt/Convolutional-Sequence-to-Sequence-Model-for-Human-Dynamics
 are also very helpful
 
@@ -16,3 +17,5 @@ Run main.py with the following setting:
 --pos_embed: True
 
 Test well with python3.6
+
+If you are using this code, please cite this paper:
