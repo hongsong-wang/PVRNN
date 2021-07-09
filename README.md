@@ -26,4 +26,10 @@ https://www.youtube.com/watch?v=mECybzziYHM
 
 If you are using this code, please cite this paper:
 
-Wang, Hongsong, and Jiashi Feng. "PVRED: A position-velocity recurrent encoder-decoder for human motion prediction." arXiv preprint arXiv:1906.06514 (2019).
+@article{wang2021pvred,
+  title={PVRED: A Position-Velocity Recurrent Encoder-Decoder for Human Motion Prediction},
+  author={Wang, Hongsong and Dong, Jian and Cheng, Bin and Feng, Jiashi},
+  journal={IEEE Transactions on Image Processing},
+  year={2021},
+  publisher={IEEE}
+}
